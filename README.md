@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Abraham</h1>
+<h3 align="center">Aspiring Software Developer | Java & Backend Enthusiast</h3>
 
-<!--
-**abraham-mendez-code/abraham-mendez-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on **DoughFlow**, a command-line application to manage and track transactions for a pizza restaurant.  
+- 🌱 I’m learning **Java, MySQL, and backend development**.  
+- 🎯 My goal is to build efficient, real-world applications and grow as a full-stack developer.  
+- ⚡ Fun fact: I enjoy automating repetitive tasks and exploring system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abraham-mendez-code&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-mendez-code&layout=compact&theme=tokyonight" alt="Top languages"/>
+</p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abraham-mendez-code&color=blue" alt="Profile views"/>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and projects.*
