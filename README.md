@@ -3,11 +3,10 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **DoughFlow**, a command-line application to manage and track transactions for a pizza restaurant.  
+### 🚀 About Me 
+- 🔭 I’m currently working on **Adventure Game**, a retro-style 2D game made using Java built-in libraries.
 - 🌱 I’m learning **Java, MySQL, and backend development**.  
-- 🎯 My goal is to build efficient, real-world applications and grow as a full-stack developer.  
-- ⚡ Fun fact: I enjoy automating repetitive tasks and exploring system design.
+- 🎯 My goal is to build efficient, real-world applications and grow as a developer.  
 
 ---
 
