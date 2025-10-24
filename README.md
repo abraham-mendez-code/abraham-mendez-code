@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Abraham</h1>
-<h3 align="center">Aspiring Software Developer | Java & Backend Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | Java Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me 
 - 🔭 I’m currently working on **Adventure Game**, a retro-style 2D game made using Java built-in libraries.
-- 🌱 I’m learning **Java, MySQL, and backend development**.  
+- 🌱 I’m learning **Java, MySQL, and application development**.  
 - 🎯 My goal is to build efficient, real-world applications and grow as a developer.  
 
 ---
