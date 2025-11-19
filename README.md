@@ -4,7 +4,6 @@
 ---
 
 ### 🚀 About Me 
-- 🔭 I’m currently working on **Adventure Game**, a retro-style 2D game made using Java built-in libraries.
 - 🌱 I’m learning **Java, MySQL, and application development**.  
 - 🎯 My goal is to build efficient, real-world applications and grow as a developer.  
 
@@ -22,12 +21,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abraham-mendez-code&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraham-mendez-code&layout=compact&theme=tokyonight" alt="Top languages"/>
